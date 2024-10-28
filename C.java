@@ -30,5 +30,11 @@
     public void MC2() {
         System.out.println("Método MC2 chamado");
     }
+
+
+      // Novo Método MC3
+    public void MC3() {
+        System.out.println("Método MC3()");
+    }
 }
 
