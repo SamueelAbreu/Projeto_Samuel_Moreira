@@ -35,8 +35,8 @@ public class D {
         System.out.println("Método MD2()");
     }
 
-
-
-
-    
+    // Adicionando o novo método MD3()
+    public void MD3() {
+        System.out.println("Método MD3");
+    }
 }
